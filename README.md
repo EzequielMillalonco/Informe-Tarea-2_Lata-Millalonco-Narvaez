@@ -4,7 +4,7 @@
  
 General: 
 
-        Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+        
 
 Específicos: 
  
@@ -29,7 +29,7 @@ Específicos:
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde....
+        Link del video ¨Informe de ¨ en donde....
 
 ## 6. CONCLUSIONES
 
