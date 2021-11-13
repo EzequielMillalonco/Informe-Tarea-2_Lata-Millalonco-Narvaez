@@ -26,19 +26,20 @@ PABLO
 EZEQUIEL
 
 
-## 3. 
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+### CAPÍTULO 3: Ley de Ohm
+
+Sección 3-1
+
+### CAPÍTULO 4: Energía y Potencia
 
 
-
-## 4. 
-
-
-
-## 5. VIDEO
+## 4. VIDEO
 
         Link del video ¨Informe Tarea 2 ¨ en donde....
 
-## 6. CONCLUSIONES
+## 5. CONCLUSIONES
 
         1.
         
@@ -48,4 +49,4 @@ EZEQUIEL
         
 
 
-## 7. BIBLIOGRAFÍA
+## 6. BIBLIOGRAFÍA
