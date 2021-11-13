@@ -4,9 +4,9 @@
  
 General: 
 
-        
+FIDEL        
 
-Específicos: 
+Específicos: FIDEL
  
         1. 
         
@@ -17,19 +17,26 @@ Específicos:
 
 ## 2. MARCO TEÓRICO
 
+### CAPÍTULO 3: Ley de Ohm
+
+PABLO
+
+### CAPÍTULO 4: Energía y Potencia
+
+EZEQUIEL
 
 
-## 3. EXPLICACIÓN DEL PROCEDIMIENTO
+## 3. 
 
 
 
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+## 4. 
 
 
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de ¨ en donde....
+        Link del video ¨Informe Tarea 2 ¨ en donde....
 
 ## 6. CONCLUSIONES
 
