@@ -90,19 +90,19 @@ Pablo
     
   **15. Determine la corriente en cada caso:**
     
-    (a) V = 5 V, R = 1.0Ω
+    (a) V = 5 V, R = 1.0 Ω
         
         5/1 = 5 A
         
-    (b) V = 15 V, R = 10Ω
+    (b) V = 15 V, R = 10 Ω
         
         15/10 = 1.5 A
     
-    (c) V = 50 V, R = 100Ω
+    (c) V = 50 V, R = 100 Ω
         
         50/100 = 0.5 A ===> 500 mA
     
-    (d) V = 30 V, R = 15kΩ
+    (d) V = 30 V, R = 15 kΩ
         
         30/15 x 10^3 = 0.002 A ===> 2mA
     
@@ -119,11 +119,11 @@ Pablo
    
         Resistencia = 47000 Ω 
         
-        I = V/R   Entonces  25V/47000Ω = 0.000532 A  ==> 532 μA 
+        I = V/R   Entonces  25V/47000 Ω = 0.000532 A  ==> 532 μA 
     
   **21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.**
     
-        Voltaje de 24V y resistencia de 37.40Ω. Entonces 24/37.40 = 0.642 A 
+        Voltaje de 24V y resistencia de 37.40 Ω. Entonces 24/37.40 = 0.642 A 
         
         Si. La corriente ahora es de 0.642 A, por tanto excede la capacidad del fusible
     
@@ -131,13 +131,13 @@ Pablo
 
   **23. Calcule el voltaje para cada valor de I y R:**
     
-    (a) I =
+    (a) I = 2 A, R = 18 Ω
     
-    (b) I =
+    (b) I = 5 A, R = 56 Ω
     
-    (c) I =
+    (c) I = 2.5 A, R = 680 Ω
     
-    (d) I =
+    (d) I = 0.6 A, R = 47 Ω
     
     (e) I =
     
