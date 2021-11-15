@@ -23,7 +23,18 @@ PABLO
 
 ### CAPÍTULO 4: Energía y Potencia
 
-EZEQUIEL
+<p align=center> Sección 4.1: Energía y potencia
+ 
+ 
+<p align=center> Sección 4.2: Potencia en un circuito eléctrico
+  
+<p align=center> Sección 4.3: Potencia nominal en resistores
+ 
+<p align=center> Sección 4.4: Conversión de energía y caída de voltaje en
+una resistencia
+ 
+<p align=center> Sección 4.5: Fuentes de potencia
+
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
