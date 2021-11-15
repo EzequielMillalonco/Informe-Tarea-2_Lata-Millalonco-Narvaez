@@ -90,27 +90,42 @@ Pablo
     
   **15. Determine la corriente en cada caso:**
     
-    (a) V =
+    (a) V = 5 V, R = 1.0Ω
+        
+        5/1 = 5 A
+        
+    (b) V = 15 V, R = 10Ω
+        
+        15/10 = 1.5 A
     
-    (b) V =
+    (c) V = 50 V, R = 100Ω
+        
+        50/100 = 0.5 A ===> 500 mA
     
-    (c) V =
+    (d) V = 30 V, R = 15kΩ
+        
+        30/15 x 10^3 = 0.002 A ===> 2mA
     
-    (d) V =
-    
-    (e) V =
+    (e) V = 250V, R= 5.6 MΩ
+        
+        250/5.6 x 10^6  = 44.64 μA
     
  **17. Se conecta un resistor de 10 Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?**
 
-    xd
+        I = V/R   Entonces  12V/10Ω = 1.2 A 
     
   **19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.**
     
-    xd
+   
+        Resistencia = 47000 Ω 
+        
+        I = V/R   Entonces  25V/47000Ω = 0.000532 A  ==> 532 μA 
     
   **21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.**
     
-    xd
+        Voltaje de 24V y resistencia de 37.40Ω. Entonces 24/37.40 = 0.642 A 
+        
+        Si. La corriente ahora es de 0.642 A, por tanto excede la capacidad del fusible
     
 <p align=center> Sección 3-3: Cálculo del voltaje
 
