@@ -157,3 +157,5 @@ Pablo
 
 
 ## 6. BIBLIOGRAFÍA
+ 
+ Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS - Octava edición. México: PEARSON EDUCACIÓN.
