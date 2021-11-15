@@ -62,7 +62,7 @@ En la Figura 4-10 se ilustra la carga en la forma de electrones que fluyen desde
 La disminución del voltaje a través del resistor provocada por una pérdida de energía se llama ¨caída de voltaje¨. El voltaje presente en el extremo derecho de la resistencia es menos negativo (o más positivo) que en el extremo izquierdo. La caída de voltaje se indica mediante signos – y +. Los electrones han perdido energía en R1 y ahora entran a R2 con un nivel de energía reducido; y así sucesivamente con todas las resistencias.
 
  
-<p align=center> Sección 4.5: Fuentes de potencia
+        Sección 4.5: Fuentes de potencia
 
 
 
