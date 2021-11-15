@@ -24,6 +24,13 @@ PABLO
 
 
 
+
+
+
+
+
+
+
 ### CAPÍTULO 4: Energía y Potencia
 
         Sección 4.1: Energía y potencia
@@ -132,14 +139,24 @@ Pablo
   **23. Calcule el voltaje para cada valor de I y R:**
     
     (a) I = 2 A, R = 18 Ω
+        
+        V = I * R ===> 2*18 = 36 V
     
     (b) I = 5 A, R = 56 Ω
+        
+        V = I * R ===> 5*56 = 280 V
     
     (c) I = 2.5 A, R = 680 Ω
+        
+        V = I * R ===> 2.5*680 = 1700 V
     
     (d) I = 0.6 A, R = 47 Ω
+        
+        V = I * R ===> 0.6*47 = 28.2 V
     
-    (e) I =
+    (e) I = 0.1 A, R= 560 Ω
+        
+        V = I * R ===> 0.1*560 = 56 V
     
   **25. Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
 
@@ -156,6 +173,18 @@ Pablo
     
     
     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
     
 <p align=center> Sección 3-4: Cálculo de la resistencia
 
