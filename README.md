@@ -59,6 +59,23 @@ La disminución del voltaje a través del resistor provocada por una pérdida de
 
         Sección 4.5: Fuentes de potencia
 
+![4 5](https://user-images.githubusercontent.com/93396250/141864943-8b54f286-d75e-4637-834c-4dc84c08378d.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
