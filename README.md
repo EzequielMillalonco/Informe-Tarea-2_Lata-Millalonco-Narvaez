@@ -21,30 +21,39 @@ Específicos: FIDEL
 
 PABLO
 
+
+
+
 ### CAPÍTULO 4: Energía y Potencia
 
-<p align=center> Sección 4.1: Energía y potencia
+        Sección 4.1: Energía y potencia
  
 Potencia es cierta cantidad de energía utilizada en cierto tiempo, y se expresa de la siguiente manera: 
+
+![image](https://user-images.githubusercontent.com/93396250/141858286-bc5d329d-2b8d-4d66-b796-9499ebc9cfa4.png)
+
  
 La energía en Joules(J) dividida para el tiempo en segundos da potencia en watts. Otra forma de verlo es que 1 watt es la cantidad de potencia cuando se utiliza un joule en un segundo. En productos comunes se lo encuentra como mili, micro, pico watts
 Ejemplo: 
+
+![image](https://user-images.githubusercontent.com/93396250/141858329-c41ef3fd-66f7-4781-bd6e-66958a758dec.png)
+
  
 **Unidad de energía kilowatt-hora (kWh)**
 Es otra manera de expresar la energía. Esta representa 1000 watts durante una hora. 
 Ejemplo: Un foco de 100 W que permanece encendido durante 10h consumen 1kWh
 
  
-<p align=center> Sección 4.2: Potencia en un circuito eléctrico
+        Sección 4.2: Potencia en un circuito eléctrico
  
+![4 2](https://user-images.githubusercontent.com/93396250/141858217-09f21ac3-5031-4b54-a366-7fe31aa44981.jpg)
 
   
-<p align=center> Sección 4.3: Potencia nominal en resistores
+        Sección 4.3: Potencia nominal en resistores
  
- 
- 
-<p align=center> Sección 4.4: Conversión de energía y caída de voltaje en
-una resistencia
+
+
+        Sección 4.4: Conversión de energía y caída de voltaje en una resistencia
  
 En la Figura 4-10 se ilustra la carga en la forma de electrones que fluyen desde la terminal negativa de una batería, a través de un circuito, hasta la terminal positiva. Cabe notar que los electrones tendrán más energía al entrar a un resistor que al salir de él, es decir al llegar a la batería de nuevo están en su estado de menor energía.
  
