@@ -166,13 +166,17 @@ Pablo
     
     (a) Corriente
         
-        I = 6 / 100 = 
+        ![image](https://user-images.githubusercontent.com/93396250/141873754-0dbb29d4-6651-4e59-813f-619d2fdcea4e.png)
+
+        I = 6 / (100 + 0.08) = 59.9 mA
 
     (b) Caída de voltaje en el resistor
+        
+        V = I * R ==> 0.0599 A * 100.08 = 5.99 V 
 
     (c) Caída de voltaje a través de cada tramo de alambre
     
-    
+        V = I * R ==> 0.0599 A * 0.08 = 4.61 mV
     
     
  
@@ -207,11 +211,11 @@ Pablo
 
 **17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
     
-        asdf
+        R = V/I ===> 75/2 = 37.5 Ω
     
 **19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**
     
-        asdf
+        P = 
     
 **21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.**
 
