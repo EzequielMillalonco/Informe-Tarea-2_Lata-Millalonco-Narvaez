@@ -226,9 +226,11 @@ Pablo
     
         P = V^2 / R ===> (1.5)^2 / 56 = 0.402 ===> 40.2 mW
     
-**25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.**
+**25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω.**
     
         (a) ¿Cuánta energía se utiliza en dos minutos?
+        
+        
 
         (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer
         minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
