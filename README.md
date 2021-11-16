@@ -158,13 +158,15 @@ Pablo
         
         V = I * R ===> 0.1*560 = 56 V
     
-  **25. Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
+  **25. Se leen tres amperes de corriente a través de un resistor de 27 Ω conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
 
-     asdf  
-    
-  **27. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente:**
+        V = I * R ===> 3 A * 27 =  81 V
+     
+  **27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente:**
     
     (a) Corriente
+        
+        I = 6 / 100 = 
 
     (b) Caída de voltaje en el resistor
 
