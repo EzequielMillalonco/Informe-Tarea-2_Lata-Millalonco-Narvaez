@@ -4,15 +4,15 @@
  
 General: 
 
-FIDEL        
+Analizar los capítulos 3 y 4 del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de introducirse en los conceptos básicos de la electrónica.    
 
 Específicos: FIDEL
  
-        1. 
-        
-        2.
-        
-        3. 
+a. Comprender la relación de corriente, voltaje y resistencia, a través de la ley de Ohm.
+
+b. Identificar: circuitos en serie y en paralelo, comprobando las leyes de voltajes y corrientes de Kirchoff, para poner en práctica al momento de trabajar con electricidad.
+
+c. Definir conceptos como:energía y potencia, analizar fuentes de potencia, caída de voltaje y conversión de energía.
         
 
 ## 2. MARCO TEÓRICO
