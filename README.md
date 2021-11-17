@@ -166,7 +166,7 @@ Pablo
     
     (a) Corriente
         
-        ![image](https://user-images.githubusercontent.com/93396250/141873754-0dbb29d4-6651-4e59-813f-619d2fdcea4e.png)
+ ![image](https://user-images.githubusercontent.com/93396250/141873754-0dbb29d4-6651-4e59-813f-619d2fdcea4e.png)
 
         I = 6 / (100 + 0.08) = 59.9 mA
 
@@ -255,7 +255,8 @@ Pablo
         
         20% de 8 : 8 * 0.20 = 1.6 Entonces 1.6 + 8 = 9.6 W
         
-        Como se debe mantener un margen de seguridad MINIMO del 20%, esto significa que nuestro resistor debera ser mayor que 9.6 W. Por tanto nuestra resistencia deberia ser de por lo menos 12 W, para as'i permitir un margen de seguridad del 20% como minimo
+        Como se debe mantener un margen de seguridad MINIMO del 20%, esto significa que nuestro resistor debera ser mayor que 9.6 W. 
+        Por tanto nuestra resistencia deberia ser de por lo menos 12 W, para as'i permitir un margen de seguridad del 20% como minimo
     
  
         
