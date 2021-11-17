@@ -194,9 +194,9 @@ Pablo
  
  
     
-<p align=center> Sección 3-4: Cálculo de la resistencia
+<p align=center> Sección 3-4: Cálculo de la resistencia **(En los problemas 1 a 5, calcule R)**
 
-Fidel
+1. 
  
 <p align=center> Sección 3-5: Introducción a la localización de fallas
 
