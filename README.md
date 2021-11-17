@@ -243,7 +243,7 @@ Pablo
         
                 P = I*V ===> (12V/10)*12 ===> 14.4 W 
         
-                T = P*t ===> 14.4 W * (2/60) h = 0.480 Wh 
+                W = P*t ===> 14.4 W * (2/60) h = 0.480 Wh 
 
         (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer
         minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
