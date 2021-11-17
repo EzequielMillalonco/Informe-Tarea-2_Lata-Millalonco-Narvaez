@@ -2,11 +2,11 @@
 
 ## 1. OBJETIVOS
  
-General: 
+   General: 
 
 Analizar los capítulos 3 y 4 del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de introducirse en los conceptos básicos de la electrónica.    
 
-Específicos: FIDEL
+   Específicos: 
  
 a. Comprender la relación de corriente, voltaje y resistencia, a través de la ley de Ohm.
 
