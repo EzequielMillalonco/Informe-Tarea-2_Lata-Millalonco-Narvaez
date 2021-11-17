@@ -201,6 +201,15 @@ Fidel
 Fidel
 
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
 ### CAPÍTULO 4: Energía y Potencia
 
 <p align=center> Sección 4-1: Energía y potencia
@@ -230,22 +239,34 @@ Pablo
     
         (a) ¿Cuánta energía se utiliza en dos minutos?
         
+                P = I*V ===> (12V/10)*12 ===> 14.4 W 
         
+                T = P*t ===> 14.4 W * (2/60) h = 0.480 Wh 
 
         (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer
         minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+        
+                Igual, debido a que el voltaje y la intensidad no se han visto modificados.
     
  
 <p align=center> Sección 4-3: Clasificaciones de potencia en resistores
 
 **27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
         
-        asdf
+        20% de 8 : 8 * 0.20 = 1.6 Entonces 1.6 + 8 = 9.6 W
+        
+        Como se debe mantener un margen de seguridad MINIMO del 20%, esto significa que nuestro resistor debera ser mayor que 9.6 W. Por tanto nuestra resistencia deberia ser de por lo menos 12 W, para as'i permitir un margen de seguridad del 20% como minimo
     
  
+        
+        
 <p align=center> Sección 4-5: Fuentes de potencia
 
  Fidel
+        
+        
+        
+        
  
 ## 4. VIDEO
 
