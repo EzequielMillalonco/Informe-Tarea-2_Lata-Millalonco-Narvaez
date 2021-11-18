@@ -88,7 +88,7 @@ La disminución del voltaje a través del resistor provocada por una pérdida de
 <p align=center> Sección 3-1: La relación de corriente, voltaje y resistencia
 
 
-  *1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando*
+**1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando**
  
         a) El voltaje se triplica
  
@@ -102,12 +102,12 @@ La disminución del voltaje a través del resistor provocada por una pérdida de
     
            La intensidad se reduce a la mitad debiod a la relacion de I = V/R
  
- *3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos*
+ **3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos**
 
  ![Ley de ohm](https://user-images.githubusercontent.com/93834732/142302477-ad9c6f4f-6f18-4163-a535-20e943322f7a.PNG)
 
  
- *5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?*
+ **5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?**
  
  ![Grafica_5](https://user-images.githubusercontent.com/93834732/142302640-22617a5f-6082-44c1-88a3-61ac5b6398ef.PNG)
  
@@ -159,7 +159,7 @@ La disminución del voltaje a través del resistor provocada por una pérdida de
  
  ![Grafica_5_1](https://user-images.githubusercontent.com/93834732/142325106-6e095f10-963f-4bcf-b6a5-496e38654f03.PNG)
 
- *7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3*
+ **7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3**
  
 ![7_grafica](https://user-images.githubusercontent.com/93834732/142325993-8e197138-8a5a-4aa5-a82a-6af2595d3b47.PNG)
  
@@ -352,7 +352,7 @@ ubica un conector en cada lado del componente.
 <p align=center> Sección 4-1: Energía y potencia
 
  
- *1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.*
+ **1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
  
          Sabiendo que la formula del voltaje es 
  
@@ -368,15 +368,15 @@ ubica un conector en cada lado del componente.
  
  ![wAT](https://user-images.githubusercontent.com/93834732/142339034-337f1e16-dd58-4d9d-a695-10f8ec496a03.PNG)
 
- *3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?*
+ **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
  
  ![3}](https://user-images.githubusercontent.com/93834732/142339553-9cd0bd47-cd90-40ba-9c6e-fecc8759bfb4.PNG)
 
- *5. ¿A cuántos watts equivalen 1000 J en 50 ms?*
+ **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
  
  ![5](https://user-images.githubusercontent.com/93834732/142339823-1f11315c-5bb7-45f3-b09d-d8f9ff412859.PNG)
 
- *7. Convierta las siguientes cantidades en megawatts:*
+ **7. Convierta las siguientes cantidades en megawatts:**
  
         a) 1,000,000 W
 
@@ -394,7 +394,7 @@ ubica un conector en cada lado del componente.
  
           0.0087 MW
  
- *9. Convierta las siguientes cantidades en microwatts:*
+ **9. Convierta las siguientes cantidades en microwatts:**
  
         a) 2 W
  
@@ -412,15 +412,15 @@ ubica un conector en cada lado del componente.
  
  ![9_4](https://user-images.githubusercontent.com/93834732/142342189-85459190-75be-4059-bed4-de729e63dfa0.PNG)
 
- *11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?*
+ **11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?**
  
  ![11](https://user-images.githubusercontent.com/93834732/142342564-8e5b2518-16ca-4604-87ec-c62184dc7fb1.PNG)
 
- *13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?*
+ **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
  
  ![13](https://user-images.githubusercontent.com/93834732/142343427-d9ea408a-7154-4249-bd5f-80b28c4b5ab4.PNG)
 
- *15. Convierta 6700 watts-segundos en kWh*
+ **15. Convierta 6700 watts-segundos en kWh**
  
  ![15](https://user-images.githubusercontent.com/93834732/142344095-0b30ab8b-eeff-41a0-82b0-a8f2e9262ee1.PNG)
  
