@@ -473,13 +473,33 @@ ubica un conector en cada lado del componente.
         
 <p align=center> Sección 4-5: Fuentes de potencia
 
- Fidel
-        
-        
-        
-        
+1.Cuando un dispositivo de carga absorbe una cantidad mayor de corriente de una fuente de potencia, ¿este cambio representa una carga mayor o menor para la fuente.
  
-## 4. VIDEO
+ Es una carga mayor
+ 
+2. Si la potencia nominal en amperes-hora de una batería es de 100 Ah, ¿cuánto tiempo puede suministrar 5 A a una carga?
+ 
+ 100 Ah = 5 (A) * x(h)
+ 
+ x = 100 Ah / 5 A 
+ 
+ x= 20 h
+ 
+3. Una fuente electrónica de potencia utilizada en el laboratorio opera con una potencia de entrada de 1 W. Ésta puede suministrar una potencia de salida de 750 mW. ¿Cuál es su eficiencia? Determine la pérdida de potencia.
+ 
+ Pentrada = 1W
+ 
+ Psalida = 750 mW
+ 
+ Eficiencia = Psalida / Pentrada
+ 
+ Eficiencia = 0.75 W = 75%
+ 
+ Pperdida = Pentrada - Psalida
+ 
+ Pperdida = 250 mW
+ 
+ ## 4. VIDEO
 
         Link del video ¨Informe Tarea 2 ¨ en donde....
 
