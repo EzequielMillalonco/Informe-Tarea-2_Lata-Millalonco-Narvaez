@@ -333,15 +333,15 @@ gris, café, rojo**
 
 1. Nombre los tres pasos incluidos en el método APM para abordar la localización de fallas.
 
- * Análisis
- * Planificación 
- * Medición
+        * Análisis
+        * Planificación 
+        * Medición
         
  
 2. ¿Por qué en un circuito los voltajes son más fáciles de medir que las corrientes?
         
-Para medir voltaje, se coloca el voltímetro en paralelo a través del componente, es decir, se
-ubica un conector en cada lado del componente.       
+        Para medir voltaje, se coloca el voltímetro en paralelo a través del componente, es decir, se
+        ubica un conector en cada lado del componente.       
         
         
         
@@ -475,33 +475,39 @@ ubica un conector en cada lado del componente.
 
 1.Cuando un dispositivo de carga absorbe una cantidad mayor de corriente de una fuente de potencia, ¿este cambio representa una carga mayor o menor para la fuente.
  
- Es una carga mayor
+        Es una carga mayor
  
 2. Si la potencia nominal en amperes-hora de una batería es de 100 Ah, ¿cuánto tiempo puede suministrar 5 A a una carga?
  
- 100 Ah = 5 (A) * x(h)
+        100 Ah = 5 (A) * x(h)
  
- x = 100 Ah / 5 A 
+        x = 100 Ah / 5 A 
  
- x= 20 h
+        x= 20 h
  
 3. Una fuente electrónica de potencia utilizada en el laboratorio opera con una potencia de entrada de 1 W. Ésta puede suministrar una potencia de salida de 750 mW. ¿Cuál es su eficiencia? Determine la pérdida de potencia.
  
- Pentrada = 1W
+        Pentrada = 1W
  
- Psalida = 750 mW
+        Psalida = 750 mW
  
- Eficiencia = Psalida / Pentrada
+        Eficiencia = Psalida / Pentrada
  
- Eficiencia = 0.75 W = 75%
+        Eficiencia = 0.75 W = 75%
  
- Pperdida = Pentrada - Psalida
+        Pperdida = Pentrada - Psalida
  
- Pperdida = 250 mW
+        Pperdida = 250 mW
  
  ## 4. VIDEO
 
-        Link del video ¨Informe Tarea 2 ¨ en donde....
+        
+        Link del video ¨Informe tarea 2¨, en dondé se explican ejercicios vistos en la Tarea #2 :
+	
+https://youtu.be/QaQNKTvchSc
+	
+	
+[![Presentación Tarea 2](https://img.youtube.com/vi/QaQNKTvchSc/0.jpg)](https://www.youtube.com/watch?v=QaQNKTvchSc)
 
 ## 5. CONCLUSIONES
 
