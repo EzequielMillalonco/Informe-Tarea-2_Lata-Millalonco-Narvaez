@@ -194,19 +194,35 @@ Pablo
  
  
     
-<p align=center> Sección 3-4: Cálculo de la resistencia **(En los problemas 1 a 5, calcule R)**
+<p align=center> Sección 3-4: Cálculo de la resistencia
+ 
+  **Calcule R**
 
-1. 
+1. V= 10 (V) , I= 2.13 (A)
+ 
+ R= V/I= 4.69 Ω
+ 
+ 2. V= 20 (kV) , I= 5.13 (A)
+ 
+ R= V/I= 3.89 kΩ
+ 
+ 3. V= 5 (V) , I= 2.27 (μA)
+ 
+ R= V/I= 2.2 MΩ
  
 <p align=center> Sección 3-5: Introducción a la localización de fallas
 
-Fidel
+1. Nombre los tres pasos incluidos en el método APM para abordar la localización de fallas.
 
-
+ * Análisis
+ * Planificación 
+ * Medición
         
+ 
+2. ¿Por qué en un circuito los voltajes son más fáciles de medir que las corrientes?
         
-        
-        
+Para medir voltaje, se coloca el voltímetro en paralelo a través del componente, es decir, se
+ubica un conector en cada lado del componente.       
         
         
         
